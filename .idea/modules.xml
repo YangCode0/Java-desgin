@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Behavior/Behavior.iml" filepath="$PROJECT_DIR$/Behavior/Behavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creation/Creation.iml" filepath="$PROJECT_DIR$/Creation/Creation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-desgin.iml" filepath="$PROJECT_DIR$/Java-desgin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Structural.iml" filepath="$PROJECT_DIR$/Structural/Structural.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package Proxy.sta;
+package dynamic;
 
 /**
  * 创建Person接口

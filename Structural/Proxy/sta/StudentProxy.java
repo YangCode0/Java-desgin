@@ -1,4 +1,4 @@
-package Proxy.sta;
+package sta;
 
 /**
  * 学生代理类，也实现了Person接口

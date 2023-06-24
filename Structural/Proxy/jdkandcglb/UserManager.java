@@ -1,4 +1,4 @@
-package Proxy.jdkandcglb;
+package jdkandcglb;
 
 public interface UserManager {
     void addUser(String userName, String password);

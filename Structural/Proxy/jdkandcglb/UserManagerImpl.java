@@ -1,4 +1,4 @@
-package Proxy.jdkandcglb;
+package jdkandcglb;
 
 public class UserManagerImpl implements UserManager{
     @Override

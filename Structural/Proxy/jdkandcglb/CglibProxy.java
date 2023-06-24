@@ -1,4 +1,4 @@
-package Proxy.jdkandcglb;
+package jdkandcglb;
 
 
 import net.sf.cglib.proxy.Enhancer;
