@@ -1,6 +1,8 @@
-package jdkandcglb;
+package Proxy.jdkandcglb;
 
-public class UserManagerImpl implements UserManager{
+import Proxy.jdkandcglb.UserManager;
+
+public class UserManagerImpl implements UserManager {
     @Override
     public void addUser(String userName, String password) {
         System.out.println("调用了用户新增的方法！");

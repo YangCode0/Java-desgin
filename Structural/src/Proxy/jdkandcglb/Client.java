@@ -1,5 +1,4 @@
-package jdkandcglb;
-
+package Proxy.jdkandcglb;
 /**
  *
  * JDK动态代理只能对实现了接口的类生成代理，而不能针对类 ，使用的是 Java反射技术实现，生成类的过程比较高效。

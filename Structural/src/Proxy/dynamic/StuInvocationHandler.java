@@ -1,4 +1,6 @@
-package dynamic;
+package Proxy.dynamic;
+
+import Proxy.dynamic.MonitorUtil;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

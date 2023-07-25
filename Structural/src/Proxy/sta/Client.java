@@ -1,4 +1,4 @@
-package sta;
+package Proxy.sta;
 
 /**
  * 静态代理模式
